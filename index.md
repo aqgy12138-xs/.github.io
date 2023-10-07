@@ -1,5 +1,5 @@
 <div>
-  <img src="./text.JPG" alt="drawing" width="950"/>
+  <img src="./img1.png" alt="drawing" width="950"/>
 </div>
 <div>
   内容
