@@ -13,9 +13,7 @@
 成果展示
 ---
 
-![alt内容](./text.gif "=600x600 title内容")
 
-![alt内容](./text.gif "title内容")
 
 ![alt内容](./text.gif "title内容")
 
