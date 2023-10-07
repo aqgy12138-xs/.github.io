@@ -76,5 +76,5 @@ ___三个人___
 直连链接： <网址>
 
 <http://www.baidu.com>
-![alt内容](./image/taobao.png "title内容")
+![alt内容](./text.JPG "title内容")
 [内容](#标题) #只有一个
