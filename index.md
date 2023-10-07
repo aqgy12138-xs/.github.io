@@ -1,7 +1,8 @@
 <html> 
      <header> 
          <link href='dark.css'/> 
-         <link href='light.css'/> 
+         <link href='light.css'/>
+          <img href='text.JPG'/>
      </header> 
      <body> 
          hello world 
