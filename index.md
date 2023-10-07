@@ -1,3 +1,4 @@
+<body bgcolor="#98fb98">
 <div>
   <center><img src="./img1.png" alt="drawing" width="950"/></center>
   <font size="90"><center><b>Local Consistency Guidance: Personalized Stylization method of Face
@@ -9,7 +10,7 @@ Video</b></center></font>
   
 </div>
 
-
+</body>
 
 
 
