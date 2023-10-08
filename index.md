@@ -82,10 +82,10 @@
 		<font size="35" class="xiaobiaotiziti"><center>待填写</center></font>
 	<font size="15" class="elsaziti">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;source&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elsa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinkesi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miles
 		</font>
-		 <img src="./text.gif" alt="drawing" width="343"/>
-		  <img src="./text.gif" alt="drawing" width="343"/>
-		  <img src="./text.gif" alt="drawing" width="343"/>
-		  <img src="./text.gif" alt="drawing" width="343"/>
+		 <img src="./text.gif" alt="drawing" width="345"/>
+		  <img src="./text.gif" alt="drawing" width="345"/>
+		  <img src="./text.gif" alt="drawing" width="345"/>
+		  <img src="./text.gif" alt="drawing" width="345"/>
 	</div>
 	<div class="max">
 		<img src="./text.gif" alt="drawing" width="370"/>
